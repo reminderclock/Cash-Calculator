@@ -1,0 +1,38 @@
+* {
+  background-color: gainsboro;
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body {
+  text-align: center;
+}
+.cotainer {
+  margin: 0 auto;
+  width: 100%;
+}
+.title {
+  font-size: 40px;
+  padding: 20px 0px;
+}
+input {
+  font-size: 20px;
+  height: 50px;
+  width: 60%;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+input::placeholder {
+  font-size: 20px;
+}
+.moneyBox {
+  height: 50px;
+  width: 40%;
+  background-color: rebeccapurple;
+  margin: 20px auto;
+  font-size: 30px;
+}
+
+#output {
+  text-align: center;
+}
