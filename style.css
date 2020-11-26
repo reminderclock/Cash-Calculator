@@ -1,5 +1,5 @@
 * {
-  background-color: gainsboro;
+  background-color: #fffff0;
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
@@ -26,7 +26,8 @@ input::placeholder {
   font-size: 20px;
 }
 .moneyBox {
-  height: 50px;
+  padding: 8px 12px;
+  height: auto;
   width: 40%;
   background-color: rebeccapurple;
   margin: 20px auto;
@@ -35,4 +36,28 @@ input::placeholder {
 
 #output {
   text-align: center;
+}
+
+#index0 {
+  background-color: rgb(239, 200, 95);
+}
+#index1 {
+  background-color: rgb(119, 177, 104);
+}
+#index2 {
+  background-color: rgb(255, 208, 181);
+}
+#index3 {
+  background-color: rgb(168, 192, 203);
+}
+#index4,
+#index5,
+#index6 {
+  background-color: rgb(176, 173, 166);
+}
+#index7 {
+  background-color: rgb(229, 172, 67);
+}
+#index8 {
+  background-color: rgb(219, 218, 214);
 }
